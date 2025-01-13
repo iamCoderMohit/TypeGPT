@@ -1,0 +1,40 @@
+*{
+    font-family: cursive;
+}
+
+h2{
+    text-align: center;
+}
+
+#showPara{
+    /* height: 200px; */
+    /* width: 300px; */
+    border: 2px solid black;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#userInp{
+    margin-top: 20px;
+    height: 200px;
+    width: 300px;
+}
+
+.current{
+    text-decoration: underline;
+}
+
+.correct{
+    color: green;
+    /* text-decoration: underline; */
+}
+.incorrect{
+    color: red;
+    /* text-decoration: underline; */
+}
+
+#result{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
